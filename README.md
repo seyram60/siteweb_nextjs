@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 
-![Image](https://drive.google.com/file/d/1pVDaImDHkon4HoNZycxrMILq01o8L3i6/view?usp=drive_link)
+![Image](https://drive.google.com/file/d/1pVDaImDHkon4HoNZycxrMILq01o8L3i6/view?usp=sharing)
 
 Landing Page montrant les services, projets 
 
